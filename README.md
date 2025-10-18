@@ -37,6 +37,14 @@ El proyecto también sirvió para aprender a:
 - Experimentar con animaciones y UI moderna  
 - Mejorar habilidades en Flutter para proyectos futuros
 
+## Imágenes
+<img width="1920" height="988" alt="image" src="https://github.com/user-attachments/assets/23184a0a-8519-4306-8387-768e79402ba4" />
+<img width="1920" height="1001" alt="image" src="https://github.com/user-attachments/assets/d29828af-3b57-43b1-b4f0-fd95c3b96893" />
+<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/5d9a61e9-0e85-49a5-b301-06e1bbbf88c7" />
+<img width="1920" height="865" alt="image" src="https://github.com/user-attachments/assets/4329d690-a031-4b06-b230-5d2a40652d86" />
+<img width="1920" height="798" alt="image" src="https://github.com/user-attachments/assets/b696c5ad-8e1f-4dbd-ae9c-4f5cb597e4b6" />
+<img width="1911" height="640" alt="image" src="https://github.com/user-attachments/assets/bd5d6d20-4c8e-4d12-a0e4-62665fa867a5" />
+
 ## Contacto
 
 - 📧 guillem.masdeu97@gmail.com  
