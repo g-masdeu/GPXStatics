@@ -1,4 +1,4 @@
-# Flutter GPX Tracker
+# Flutter GPX Statics
 
 Este proyecto de Flutter fue creado para **experimentar con archivos GPX** y practicar la manipulación de rutas GPS dentro de una aplicación móvil.
 
