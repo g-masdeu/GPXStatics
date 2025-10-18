@@ -1,0 +1,39 @@
+name: demo_bici
+description: "A new Flutter project."
+
+publish_to: 'none' # This is a private project
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqlite3: ^2.0.0
+  path_provider: ^2.0.15
+  path: ^1.8.3
+  intl: ^0.18.1
+  cupertino_icons: ^1.0.8
+  http: 1.4.0
+  xml: ^6.1.0
+  gpx: ^2.3.0
+  sqlite3_flutter_libs: ^0.5.34
+  file_picker: ^5.2.5  
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+  fl_chart: ^0.68.0
+  uuid: ^4.5.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+
